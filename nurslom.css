@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(0, 255, 149);
+}
+.div2 img{
+    font-size: 5px;
+    border-radius: 50%;
+    box-shadow: blue;
+    top: 60px;
+    left: 50px;
+}
+.ppp button{
+    width: 20%;
+    height: 50px;
+    color: aliceblue;
+    border-radius: 40%;
+    background-color: rgb(0, 0, 0);
+}
+.ppp button:hover{
+    background-color: rgb(4, 0, 255);
+}
+.ppp{
+    font-size: 50px;
+    position: absolute;
+    top: 400px;
+    left: 700px;
+}
