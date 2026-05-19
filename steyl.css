@@ -1,0 +1,23 @@
+*{
+    background-color: darkseagreen;
+}
+.irodaimg{
+    margin-left: 150px;
+    margin-top: 50px;
+    border-radius: 150px;
+}
+.irodah1{
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.irodah2{
+    margin-left: 500px;
+}
+.irodabutton{
+    margin-left: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    color: red;
+    background-color: black;
+    font-size: 20px;
+}
